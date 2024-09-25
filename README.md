@@ -26,7 +26,7 @@ The business requirement for this project is to analyze energy consumption and c
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "Wemart_grocery_data.csv" file, containing detailed information about each sale made by the company.
+Energy Data: The primary dataset used for this analysis is the "Energy Consumptions Dataset.csv" file, containing detailed information about energy use in several buildings across The US.
 
 ### Tools
 
